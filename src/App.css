@@ -1,0 +1,17 @@
+.container {
+  width: 100hw;
+  display: grid;
+  justify-content: center;
+}
+
+.container h1 {
+  text-align: center;
+}
+
+.item {
+  width: 750px;
+}
+
+.photo {
+  height: 600px;
+}
